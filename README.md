@@ -89,9 +89,11 @@ Foi realizada uma análise comparativa da média de preços por tipo de imóvel 
 
 *O gráfico abaixo (gerado via Matplotlib integrado ao Pandas) ilustra a diferença de média de valor entre tipos como Apartamentos, Casas e Casas de Condomínio.*
 
-> *[Insira aqui uma imagem do gráfico gerado no notebook, se você o salvou como png]*
+> <img width="1389" height="990" alt="download (1)" src="https://github.com/user-attachments/assets/0afdc56c-d798-404b-b212-704176d8551f" />
+*
 
 --
+
 
 
 ## 🚀 Como Executar
@@ -104,7 +106,7 @@ Foi realizada uma análise comparativa da média de preços por tipo de imóvel 
 ### Instalação
 ```bash
 # Clone este repositório
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+git clone [https://github.com/gabbil1/projeto_alura_DataScience_Pandas.git](https://github.com/gabbil1/projeto_alura_DataScience_Pandas.git)
 
 # Instale as dependências
 pip install pandas matplotlib
